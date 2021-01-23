@@ -1,4 +1,4 @@
-# HarpagonVR
+# HarpagonVR (Turkish)
 A chatbot demo what can speaking like Harpagon (L'avare)
 
 Please install chatterbot library and place cimri file inside to chatterbot.corpus before using.
