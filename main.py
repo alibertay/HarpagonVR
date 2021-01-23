@@ -1,12 +1,5 @@
 from chatterbot import ChatBot
 
-
-
-'''
-This is an example showing how to train a chat bot using the
-ChatterBot ListTrainer.
-'''
-
 chatbot = ChatBot('Cimri')
 
 chatbot = ChatBot(
